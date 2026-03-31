@@ -6,10 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Xeze.org-blue?style=flat-square&logo=firefox)](https://xeze.org)
 [![Email](https://img.shields.io/badge/Contact-Admin@Xeze.org-red?style=flat-square&logo=gmail)](mailto:Admin@Xeze.org)
-[![GitHub](https://img.shields.io/badge/GitHub-Xeze--org-black?style=flat-square&logo=github)](https://github.com/Xeze-org)
 ![GitHub Org Stars](https://img.shields.io/github/stars/Xeze-org?style=flat-square&label=Total%20Stars&logo=github)
-![Repos](https://img.shields.io/badge/Repos-10-blue?style=flat-square&logo=github)
-![Members](https://img.shields.io/badge/Members-1-green?style=flat-square&logo=github)
 </div>
 
 ---

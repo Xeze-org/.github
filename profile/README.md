@@ -19,15 +19,15 @@ Xeze is an open-source organization focused on building developer infrastructure
 
 ## 🚀 Projects
 
-| Repository | Description | Stack |
-|---|---|---|
-| [Database-Router](https://github.com/Xeze-org/Database-Router) | Lightweight self-hosted gRPC server — unified interface for PostgreSQL, MongoDB & Redis with mTLS and multi-language SDKs | Go |
-| [research_ai_agent](https://github.com/Xeze-org/research_ai_agent) | Autonomous AI agent for deep research and information synthesis | Go |
-| [Anie-Frontend](https://github.com/Xeze-org/Anie-Frontend) | Frontend interface for the Anie platform | TypeScript |
-| [Anie-Grade-Service](https://github.com/Xeze-org/Anie-Grade-Service) | Microservice for grade processing in the Anie ecosystem | Go |
-| [yt-bot](https://github.com/Xeze-org/yt-bot) | Telegram bot for YouTube video downloading | Python |
-| [easy-blog](https://github.com/Xeze-org/easy-blog) | Minimal, developer-friendly blogging platform | TypeScript |
-| [Encrypted-onion-forum](https://github.com/Xeze-org/Encrypted-onion-forum) | End-to-end encrypted forum over the Tor network | Python |
+| Repository | Description |
+|---|---|
+| [Database-Router](https://github.com/Xeze-org/Database-Router) | Lightweight self-hosted gRPC server — unified interface for PostgreSQL, MongoDB & Redis with mTLS and multi-language SDKs |
+| [research_ai_agent](https://github.com/Xeze-org/research_ai_agent) | Autonomous AI agent for deep research and information synthesis |
+| [Anie-Frontend](https://github.com/Xeze-org/Anie-Frontend) | Frontend interface for the Anie platform |
+| [Anie-Grade-Service](https://github.com/Xeze-org/Anie-Grade-Service) | Microservice for grade processing in the Anie ecosystem |
+| [yt-bot](https://github.com/Xeze-org/yt-bot) | Telegram bot for YouTube video downloading |
+| [easy-blog](https://github.com/Xeze-org/easy-blog) | Minimal, developer-friendly blogging platform |
+| [Encrypted-onion-forum](https://github.com/Xeze-org/Encrypted-onion-forum) | End-to-end encrypted forum over the Tor network |
 ---
 
 ## 🤝 Contributing

@@ -11,7 +11,7 @@
 
 ---
 
-# Code.Xeze.org - our code
+# [Code.Xeze.org](https://code.xeze.org)
 
 ## 🧭 About Xeze
 

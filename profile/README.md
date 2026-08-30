@@ -2,7 +2,7 @@
 
 # ⚡ Xeze
 
-  Explore Infrastructure and Automation - https://code.xeze.org
+ ### Explore Projects and Contribute - https://code.xeze.org
 
 <div align="center">
   <sub>Built with ❤️ by the Xeze team</sub>
